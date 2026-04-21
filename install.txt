@@ -1,0 +1,5 @@
+(1) pip install numpy
+(2) pip install pandas
+(3) pip install matplotlib.pyplot
+(4) pip install mysql.connector
+(5) pip install sqlite3
